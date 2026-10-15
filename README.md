@@ -61,4 +61,6 @@ reach out to your G2V contact directly. Please include the app version
 
 ## License
 
-See [LICENSE](LICENSE).
+Use of the Sunbrick app is subject to G2V's End User License Agreement. See
+[LICENSE](LICENSE), or the current version at
+<https://g2voptics.com/legal/eula/>.
